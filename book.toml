@@ -1,0 +1,23 @@
+[book]
+title = "C ↔ Rust Geçiş Rehberi"
+description = "C ve Rust farkları, idiomatik dönüşümler ve FFI ile geçiş rehberi"
+authors = ["C-Rust Geçiş Katkımcıları"]
+language = "tr"
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/mfguney/c-rust-gecis"
+edit-url-template = "https://github.com/mfguney/c-rust-gecis/edit/main/{path}"
+site-url = "/c-rust-gecis/"
+additional-css = ["theme/step-anim.css"]
+additional-js = ["theme/step-anim.js"]
+
+[output.html.fold]
+enable = true
+level = 1

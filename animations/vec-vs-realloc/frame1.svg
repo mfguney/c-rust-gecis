@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" font-family="Segoe UI, sans-serif">
+  <rect width="560" height="200" fill="#fffbeb"/>
+  <text x="20" y="28" font-size="15" font-weight="700">C realloc vs Rust Vec  yan yana</text>
+  <text x="60" y="70" font-size="13" font-weight="600">C</text>
+  <text x="60" y="95" font-size="12">p = realloc(p, n); // p dei_ebilir</text>
+  <text x="60" y="120" font-size="12">eski pyi kullanmak UB</text>
+  <text x="300" y="70" font-size="13" font-weight="600">Rust</text>
+  <text x="300" y="95" font-size="12">v.push(x); // gerekirse büyütür</text>
+  <text x="300" y="120" font-size="12">eski &amp;v[i] geçersiz olabilir</text>
+</svg>

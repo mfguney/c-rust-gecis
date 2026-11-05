@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 240" font-family="Segoe UI, sans-serif">
+  <rect width="560" height="240" fill="#f8fafc"/>
+  <text x="20" y="28" font-size="15" font-weight="700">Ayn1 i_  Rust modeli</text>
+  <rect x="40" y="60" width="220" height="140" rx="6" fill="#dbeafe" stroke="#1d4ed8"/>
+  <text x="60" y="95" font-size="13">let buf = Vec::...</text>
+  <text x="60" y="125" font-size="13">kullan...</text>
+  <text x="60" y="155" font-size="13">} scope sonu ’ Drop</text>
+  <text x="60" y="185" font-size="12" fill="#1e40af">otomatik serbest</text>
+</svg>

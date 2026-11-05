@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" font-family="Segoe UI, sans-serif">
+  <rect width="560" height="220" fill="#faf5ff"/>
+  <text x="20" y="28" font-size="15" font-weight="700">FFI  C tahsis, Rust ödünç al1r</text>
+  <rect x="40" y="70" width="160" height="90" fill="#fdba74" stroke="#c2410c"/><text x="70" y="120" font-size="13">C: owner</text>
+  <rect x="320" y="70" width="180" height="90" fill="#c4b5fd" stroke="#5b21b6"/><text x="350" y="120" font-size="13">Rust: &amp; / *const</text>
+  <path d="M200 115 H320" stroke="#111" stroke-width="2"/>
+  <text x="150" y="200" font-size="12">Rust free etmemeli</text>
+</svg>
